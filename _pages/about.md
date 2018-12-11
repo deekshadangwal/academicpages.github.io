@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year Ph.D. candidate in the Computer Science department at UC Santa Barbara. I work in in the [ArchLab](https://www.arch.cs.ucsb.edu/) with [Prof. Tim Sherwood](https://cs.ucsb.edu/~sherwood), in computer architecture, and I am interested in understanding and characterizing program behavior through novel and efficient profiling methods -- by measuring and tracking information flow through systems. Currently, I am exploring privacy in program traces via a synthetic trace generation technique with the intent of minimizing information leakage to promote safe program behavior sharing (to appear in ASPLOS 2019). Previously, I have worked on [PyRTL](https://github.com/UCSBarchlab/PyRTL), a Python-based RTL specification language, and built an AES-128 core and the [OpenTPU] (https://github.com/UCSBarchlab/OpenTPU) on it. I have also worked on [Charm] (https://github.com/UCSBarchlab/Charm), a high-level architecture modeling language.
+I'm a third year Ph.D. candidate in the Computer Science department at UC Santa Barbara. I work in in the [ArchLab](https://www.arch.cs.ucsb.edu/) with [Prof. Tim Sherwood](https://cs.ucsb.edu/~sherwood), in computer architecture, and I am interested in understanding and characterizing program behavior through novel and efficient profiling methods -- by measuring and tracking information flow through systems. Currently, I am exploring privacy in program traces via a synthetic trace generation technique with the intent of minimizing information leakage to promote safe program behavior sharing (to appear in ASPLOS 2019). Previously, I have worked on [PyRTL](https://github.com/UCSBarchlab/PyRTL), a Python-based RTL specification language, and built an AES-128 core and the [OpenTPU](https://github.com/UCSBarchlab/OpenTPU) on it. I have also worked on [Charm](https://github.com/UCSBarchlab/Charm), a high-level architecture modeling language.
 
 
 News
 ------
-Novemver 6: Our paper on Safer Program Behavior Sharing just got accepted at ASPLOS! Woohoo! Thank you anonymous reviewers!
+November 6: Our paper on Safer Program Behavior Sharing just got accepted at ASPLOS! Woohoo! Thank you anonymous reviewers!
 
 June-September: I'll be a research intern with the Brainwave team at Microsoft in Redmond! Email me if you're around the Seattle area too! 
 
