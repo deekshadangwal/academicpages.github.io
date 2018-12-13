@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,7 +17,7 @@ Previously, I have worked on [PyRTL](https://github.com/UCSBarchlab/PyRTL), a Py
 
 ### Recent News
 
-November 6: Our paper on Safer Program Behavior Sharing just got accepted at ASPLOS! Woohoo! Thank you anonymous reviewers!
+November 6: _Our paper on Safer Program Behavior Sharing just got accepted at ASPLOS! Woohoo! Thank you anonymous reviewers!_
 
 June-September: _I'll be a research intern with the Brainwave team at Microsoft in Redmond! Email me if you're around the Seattle area too!_ 
 
