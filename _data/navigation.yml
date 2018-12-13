@@ -5,6 +5,12 @@ main:
 
   - title: "Projects"
     url: /projects/ 
-    
+  
+  - title: "Timeline"
+    url: /timeline/  
+
   - title: "CV"
-    url: /cv/cv.pdf
+    url: /cv/cv_.pdf
+    
+  - title: "Random"
+    url: /random/ 
