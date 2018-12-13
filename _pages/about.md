@@ -2,12 +2,11 @@
 permalink: /
 author_profile: true
 excerpt: "About me"
+title: "About me"
 redirect_from: 
   - /about/
   - /about.html
 ---
-### About me 
-
 I'm a third year Ph.D. candidate in the Computer Science department at UC Santa Barbara. I work in in the [ArchLab](https://www.arch.cs.ucsb.edu/) with [Prof. Tim Sherwood](https://cs.ucsb.edu/~sherwood), in computer architecture, and I am interested in understanding and characterizing program behavior through novel and efficient profiling methods -- by measuring and tracking information flow through systems. 
 
 Currently, I am exploring privacy in program traces via a synthetic trace generation technique with the intent of minimizing information leakage to promote safe program behavior sharing (to appear in ASPLOS 2019). 
