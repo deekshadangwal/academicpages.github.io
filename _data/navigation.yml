@@ -10,7 +10,7 @@ main:
     url: /timeline/  
 
   - title: "CV"
-    url: /cv/cv_.pdf
+    url: /files/cv_.pdf
     
   - title: "Random"
     url: /random/ 
