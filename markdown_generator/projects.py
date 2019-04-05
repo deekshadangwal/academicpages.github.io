@@ -102,7 +102,7 @@ for row, item in projects.iterrows():
     
     md_filename = os.path.basename(md_filename)
        
-    with open("../projects/" + md_filename, 'w') as f:
+    with open("../_projects/" + md_filename, 'w') as f:
         f.write(md)
 
 
