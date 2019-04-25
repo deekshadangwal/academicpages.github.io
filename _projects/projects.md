@@ -9,6 +9,7 @@ Trace wringing in two minutes:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/voulS9LIorw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
 [Download paper](http://deekshadangwal.github.io/files/dangwal19-wring.pdf)
 
 [Download ASPLOS presentation slides](http://deekshadangwal.github.io/files/tracewringing_asplos2019.pdf)
