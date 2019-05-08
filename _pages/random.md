@@ -5,7 +5,7 @@ excerpt: "Random"
 title: "Random"
 redirect_from: 
   - /random/
-  - /random.md
+  - /random.html
 ---
 
 hi
