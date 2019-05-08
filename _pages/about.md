@@ -7,15 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third year Ph.D. candidate in the Computer Science department at UC Santa Barbara. I work in in the [ArchLab](https://www.arch.cs.ucsb.edu/) with [Prof. Tim Sherwood](https://cs.ucsb.edu/~sherwood), in computer architecture, and I am interested in understanding and characterizing program behavior through novel and efficient profiling methods -- by measuring and tracking information flow through systems. 
+I'm a third year Ph.D. candidate in the Computer Science department at UC Santa Barbara. I work in in the [ArchLab](https://www.arch.cs.ucsb.edu/) with [Prof. Tim Sherwood](https://cs.ucsb.edu/~sherwood), in computer architecture. I am interested in understanding the system security in the context of program behavior, and I do this by measuring and tracking information flow through systems. 
 
-Currently, I am exploring privacy in program traces via a synthetic trace generation technique with the intent of minimizing information leakage to promote safe program behavior sharing (to appear in ASPLOS 2019). 
+Currently, I am exploring privacy in program traces via a synthetic trace generation technique, called trace wringing. Trace wringing tries to minimize information leakage and promotes safe program behavior sharing (ASPLOS 2019). 
 
 Previously, I have worked on [PyRTL](https://github.com/UCSBarchlab/PyRTL), a Python-based RTL specification language, and built an AES-128 core and the [OpenTPU](https://github.com/UCSBarchlab/OpenTPU) on it. I have also worked on [Charm](https://github.com/UCSBarchlab/Charm), a high-level architecture modeling language.
 
 ### Recent News
 
 November 6: _Our paper on Safer Program Behavior Sharing just got accepted at ASPLOS! Woohoo! Thank you anonymous reviewers!_
+
+October 1: _I'm excited to be part of the NSF Early Research Scholars Program. I will be mentoring four CS undergraduates from UCSB. Looking forward to learning a bunch of new stuff with them!_
 
 June-September: _I'll be a research intern with the Brainwave team at Microsoft in Redmond! Email me if you're around the Seattle area too!_ 
 
