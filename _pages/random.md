@@ -1,11 +1,12 @@
 ---
 layout: archive
-permalink: /random/
 title: "Random"
+permalink: /random/
 author_profile: true
-redirect_from: 
-  - /random/
-  - /random.html
 ---
 
-hi
+{% include base_path %}
+
+{% for post in site.random reversed %}
+  {% include archive-single.html %}
+{% endfor %}
