@@ -8,6 +8,4 @@ redirect_from:
   - /random.html
 ---
 
-{% include base_path %}
-
 hi
